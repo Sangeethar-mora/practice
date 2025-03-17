@@ -3,6 +3,6 @@ print("given list is" , given_list)
 num_l = given_list
 
 for i in num_l:
-        if 1 % 5 == 0:
+        if i % 5 == 0:
                 print(i)
 
